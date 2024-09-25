@@ -1,0 +1,11 @@
+This is an individual project. You are not to share code, insights, documents, or ideas. If you have questions, please direct them to me. Any code or projects that are duplicated or are very similar will receive 0 points or reduced points.
+
+This project consists of two parts: the analysis in Python and a written report.
+
+Analyze the attached dataset according to the tools and techniques we have learned thus far in the course. This dataset is the D.C. bike share data we have partially covered in other projects. Please see the data description file below for a description of the data and variables.
+
+Fully analyze the dataset using approaches and tools covered thus far in the course. You may not need to use every approach, method, etc. Instead, determine the best approach to derive business insights, based on the data and variables present in the dataset. Generate important and insightful plots and charts. You may create all the plots you wish, but you will only include a few key plots in your written report. Rather than trying to do everything, focus on deriving a few key insights or on one or two main objectives or goals for your analysis. Remember, you should always include descriptive statistics regardless of other approaches you utilize.
+
+In a separate Word document, write a brief report on what you found. Share your key insights and conclusions. Insert data, output, or plots to support your insights and conclusions. In the text, reference any data, output, or plots that you used and explain how those led you to your insights and conclusions. Do not include any unhelpful or unnecessary output or plots. Include an introductory paragraph and a strong conclusion in your report. Depending on the size and number of plots you include, you should aim for a report that is between 2-4 pages in length. You are free to use any format or style that you prefer. Submit your report as either a Word document or a PDF.
+
+The deliverables for this project include your Python project code and your summary report.
